@@ -28,7 +28,7 @@ You can install the dependencies via pip:
 Clone the Repository:
 bash
 Copy code
-git clone https://github.com/your_username/twitter-sentiment-analysis.git
+git clone https://github.com/Usman-Meh/twitter-sentiment-analysis.git
 Navigate to the Project Directory:
 
 bash
