@@ -1,4 +1,6 @@
 Twitter Sentiment Analysis Model
+
+
 This repository contains a Twitter sentiment analysis model developed using Natural Language Processing (NLP) techniques and a logistic regression machine learning algorithm.
 Overview
 Twitter sentiment analysis is the process of determining the sentiment expressed in a tweet, whether it's positive, negative, or neutral. This model aims to predict the sentiment of tweets using a logistic regression classifier trained on labeled Twitter data.
