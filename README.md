@@ -1,14 +1,14 @@
-Twitter Sentiment Analysis Model
+# Twitter Sentiment Analysis Model
 
 
 This repository contains a Twitter sentiment analysis model developed using Natural Language Processing (NLP) techniques and a logistic regression machine learning algorithm.
 
 
-Overview
+## Overview
 Twitter sentiment analysis is the process of determining the sentiment expressed in a tweet, whether it's positive, negative, or neutral. This model aims to predict the sentiment of tweets using a logistic regression classifier trained on labeled Twitter data.
 
 
-Features
+## Features
 Utilizes NLP techniques such as stemming, stopwords removal, and tokenization to preprocess and extract features from raw text data.
 
 
@@ -22,7 +22,7 @@ Python (>=3.6)
 NLTK (Natural Language Toolkit)
 NumPy
 Pandas
-You can install the dependencies via pip:
+# You can install the dependencies via pip:
 
 
 Clone the Repository:
@@ -59,7 +59,7 @@ python evaluate.py
 Dataset
 The model is trained on a labeled Twitter dataset containing tweets annotated with sentiment labels (positive, negative, neutral). Ensure that you have a similar dataset for training the model.
 
-Real-time Prediction
+## Real-time Prediction
 The model allows real-time prediction on user input. Run the predict_user_input.py script to enter a tweet and get its sentiment prediction instantly.
 
 Copy code
@@ -67,9 +67,10 @@ python predict_user_input.py
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+## Acknowledgments
 This project is inspired by the need to understand public sentiment on Twitter.
 Special thanks to the creators of scikit-learn, NLTK, and other open-source libraries used in this project.
-Contributing
+
+## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
